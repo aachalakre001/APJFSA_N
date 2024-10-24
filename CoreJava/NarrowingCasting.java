@@ -22,14 +22,14 @@ public class NarrowingCasting {
         short shortValueFromInt = (short) intValue; // Explicit narrowing
         System.out.println("\nInt to Short:");
         System.out.println("Original int value: " + intValue);
-        System.out.println("Narrowed short value: " + shortValueFromInt); // Data loss occurs
+        System.out.println("Narrowed short value: " + shortValueFromInt); 
         
         // Short to Byte
         short shortValue = 130; // Out of byte range
         byte byteValueFromShort = (byte) shortValue; // Explicit narrowing
         System.out.println("\nShort to Byte:");
         System.out.println("Original short value: " + shortValue);
-        System.out.println("Narrowed byte value: " + byteValueFromShort); // Data loss occurs
+        System.out.println("Narrowed byte value: " + byteValueFromShort); 
         
         // Long to Int
         long longValue = 100000L;
