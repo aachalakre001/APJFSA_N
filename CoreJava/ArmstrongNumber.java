@@ -1,5 +1,5 @@
 package CoreJava;
-
+//WAP for Armstrong Number
 import java.util.Scanner; // Import the Scanner class for user input
 
 public class ArmstrongNumber {
