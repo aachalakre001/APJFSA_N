@@ -11,3 +11,8 @@ public class SquareCalculator {
 	System.out.println("Perimeter of a square is: "+perimeter);
     }
 }
+/*output:
+side length of a square:12
+Area of a square is: 144
+Perimeter of a square is: 48
+ */
