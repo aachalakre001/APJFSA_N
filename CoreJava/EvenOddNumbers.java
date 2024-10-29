@@ -1,5 +1,5 @@
 package CoreJava;
-
+//WAP for checking numer is Even or odd 
 import java.util.Scanner;
 
 public class EvenOddNumbers {
