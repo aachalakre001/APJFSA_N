@@ -2,7 +2,7 @@ package CoreJava;
 
 public class ControlFlow {
 	public static void main(String[] args) {
-		int marks=70;
+		int marks=70;//predefine input as a 70
 		if(marks>90) {
 			System.out.println("A grade");
 		}
