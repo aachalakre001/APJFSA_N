@@ -46,3 +46,28 @@ public class NarrowingCasting {
         System.out.println("Narrowed int value (ASCII): " + intValueFromChar);
     }
 }
+/*output: Double to Float:
+Original double value: 9.78
+Narrowed float value: 9.78
+
+Float to Int:
+Original float value: 10.5
+Narrowed int value: 10
+
+Int to Short:
+Original int value: 32768
+Narrowed short value: -32768
+
+Short to Byte:
+Original short value: 130
+Narrowed byte value: -126
+
+Long to Int:
+Original long value: 100000
+Narrowed int value: 100000
+
+Char to Int:
+Original char value: A
+Narrowed int value (ASCII): 65
+ */
+
