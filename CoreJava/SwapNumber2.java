@@ -1,5 +1,5 @@
 package CoreJava;
-
+//WAP for swapping number without using 3rd variable
 import java.util.Scanner;
 
 public class SwapNumber2 {
