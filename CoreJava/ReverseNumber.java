@@ -1,5 +1,5 @@
 package CoreJava;
-
+//WAP for Reverse number
 import java.util.Scanner; 
 
 public class ReverseNumber {
