@@ -1,5 +1,5 @@
 package CoreJava;
-
+//WAP for print grade by marks
 public class ControlFlow {
 	public static void main(String[] args) {
 		int marks=70;//predefine input as a 70
