@@ -1,5 +1,5 @@
 package CoreJava;
-
+//wap for all predefined Datatypes
 public class DataTypes {
 
 	public static void main(String[] args) {
