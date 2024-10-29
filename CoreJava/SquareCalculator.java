@@ -1,5 +1,5 @@
 package CoreJava;
-
+//WAP for calculating Square and perimeter of a Square
 public class SquareCalculator {
 	public static void main(String[] args) {
     {	//to calculate area and perimeter 
