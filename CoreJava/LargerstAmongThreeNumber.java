@@ -22,3 +22,9 @@ public class LargerstAmongThreeNumber {
 	}
 
 }
+/*output:Enter three numbers: 
+43
+67
+87
+num3 is greater: 87
+*/
