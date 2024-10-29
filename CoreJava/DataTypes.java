@@ -25,3 +25,14 @@ public class DataTypes {
 	}
 
 }
+/*output:
+All DataTypes are shown below:- 
+ 1) Integer= 10
+ 2) Float= 13.9456
+ 3) Double= 3000000.674555
+ 4) Character= A
+ 5) Boolean= true
+ 6) Byte= 40
+ 7) Short= 30000
+ 8) Long= 20000000
+*/
