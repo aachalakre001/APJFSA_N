@@ -1,5 +1,5 @@
 package CoreJava;
-
+//WAP for Narrowing type casting
 public class NarrowingCasting {
 
     public static void main(String[] args) {
