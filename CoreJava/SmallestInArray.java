@@ -1,5 +1,5 @@
 package CoreJava;
-
+//2. Create Java Program to print the smallest element in an array
 import java.util.Scanner;
 
 public class SmallestInArray {
